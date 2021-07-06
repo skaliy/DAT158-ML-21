@@ -1,1 +1,1 @@
-Sitemap: https://skaliy.github.io/DAT158-ML-21/sitemap.xml
+Sitemap: https://skaliy.github.io/dat158-ml-21/sitemap.xml
