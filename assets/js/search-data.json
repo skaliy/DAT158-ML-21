@@ -25,7 +25,7 @@
     
         ,"post2": {
             "title": "1. Introduction to machine learning",
-            "content": "Learning outcomes . Explain what is machine learning? | What are the basic attributes of machine learning? | Ta i bruk maskinlæring til å studere noen ekte (men relativt enkle) datasett | Lær om grunnleggende begreper og teknikker innen klassifikasjon | Bli kjent med hvordan en angriper et problem med maskinlæring, fra problemformulering og datainnsamling til en maskinlæringsløsning. | Kom i gang med ML innlevering 1 | . Reading . Chapter 1: The Machine Learning Landscape | Chapter 2: End-to-End Machine Learning Project | Chapter 3: Classification | .",
+            "content": "Module overview . What is machine learning? | Use machine learning to study relatively simple real-world data sets. | Learn about basic concepts and techniques in classification. | What is some of the main challenges in machine learning? | Formulate real-world problems as machine learning problems by identifying the task, performance measure, and training experience. | Get started with ML assignment 1 | Reading . Chapter 1: The Machine Learning Landscape | Chapter 2: End-to-End Machine Learning Project | Chapter 3: Classification | .",
             "url": "https://skaliy.github.io/DAT158-ML-21/jupyter/2021/09/05/introduction-to-machine-learning.html",
             "relUrl": "/jupyter/2021/09/05/introduction-to-machine-learning.html",
             "date": " • Sep 5, 2021"
