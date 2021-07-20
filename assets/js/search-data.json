@@ -25,7 +25,7 @@
     
         ,"post2": {
             "title": "1. Introduction to machine learning",
-            "content": "Module overview . What is machine learning? | Use machine learning to study relatively simple real-world data sets. | Learn about basic concepts and techniques in classification. | What is some of the main challenges in machine learning? | Formulate real-world problems as machine learning problems by identifying the task, performance measure, and training experience. | Get started with ML assignment 1 | Reading . Chapter 1: The Machine Learning Landscape | Chapter 2: End-to-End Machine Learning Project | Chapter 3: Classification | .",
+            "content": "Module overview . What is machine learning? | Use machine learning to study relatively simple real-world data sets. | Learn about basic concepts and techniques in classification. | What is some of the main challenges in machine learning? | Formulate real-world problems as machine learning problems by identifying the task, performance measure, and training experience. | Get started with ML assignment 1 | Reading . Chapter 1: The Machine Learning Landscape | Chapter 2: End-to-End Machine Learning Project | Chapter 3: Classification | . TODOs . Week 36 . Go through the notebook notebooks/0.0-test.ipynb . Week 37 . Week 38 . Slides .",
             "url": "https://skaliy.github.io/DAT158-ML-21/jupyter/2021/09/05/introduction-to-machine-learning.html",
             "relUrl": "/jupyter/2021/09/05/introduction-to-machine-learning.html",
             "date": " • Sep 5, 2021"
