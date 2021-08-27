@@ -196,6 +196,15 @@ window.onload = wrap_img;
 <h3 id="Install-Git">
 <a class="anchor" href="#Install-Git" aria-hidden="true"><span class="octicon octicon-link"></span></a>Install Git<a class="anchor-link" href="#Install-Git"> </a>
 </h3>
+<p>Check if Git is already installed:</p>
+<div class="highlight"><pre><span></span>git --version
+</pre></div>
+<p>If Git is not installed, you will receive an error message similar to the following:</p>
+<div class="highlight"><pre><span></span>-bash: git: <span class="nb">command</span> not found
+</pre></div>
+<div class="highlight"><pre><span></span><span class="s1">'git'</span> is not recognized as an internal or external command, operable program or batch file.
+</pre></div>
+<p>In this case, run the following command:</p>
 <div class="highlight"><pre><span></span>conda install git
 </pre></div>
 
@@ -257,7 +266,7 @@ window.onload = wrap_img;
 <h3 id="Test-your-installation">
 <a class="anchor" href="#Test-your-installation" aria-hidden="true"><span class="octicon octicon-link"></span></a>Test your installation<a class="anchor-link" href="#Test-your-installation"> </a>
 </h3>
-<p>Go through the notebook <code>notebooks/0.0-test.ipynb</code> :</p>
+<p>Go through the notebook <code>notebooks/0.0-test.ipynb</code>:</p>
 <div class="highlight"><pre><span></span>jupyter notebook
 </pre></div>
 <p>You can alternatively use <a href="https://github.com/jupyterlab/jupyterlab">JupyterLab</a>:</p>
