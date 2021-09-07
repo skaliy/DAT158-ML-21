@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>https://skaliy.github.io/DAT158-ML-21/jupyter/2021/08/05/getting-started.html</loc>
+<lastmod>2021-08-05T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>https://skaliy.github.io/DAT158-ML-21/jupyter/2021/09/05/introduction-to-machine-learning.html</loc>
+<lastmod>2021-09-05T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>https://skaliy.github.io/DAT158-ML-21/jupyter/2021/10/05/machine-learning-models.html</loc>
+<lastmod>2021-10-05T00:00:00-05:00</lastmod>
+</url>
+<url>
 <loc>https://skaliy.github.io/DAT158-ML-21/</loc>
 </url>
 <url>
