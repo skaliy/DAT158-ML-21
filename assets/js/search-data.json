@@ -2,8 +2,8 @@
   
     
         "post0": {
-            "title": "3. Machine learning models",
-            "content": "Module overview . It will be a short guided tour through a complex landscape, where some important topics will be flagged. . Reading . TBA . TODOs . Week 43 . Week 44 . Deployment tutorials . These tutorials are useful for assignment 2, and will also form the basis for our discussion around deployment. The source code are available in the deployment_tutorials folder in the course repository.&lt;/p&gt; &lt;/div&gt; &lt;/div&gt; &lt;/div&gt; Streamlit-tutorial . . Flask-tutorial . . &lt;/div&gt; .",
+            "title": "3. Machine learning in practice",
+            "content": "Module overview . It will be a short guided tour through a complex landscape, where some important topics will be flagged. . Reading . TBA . TODOs . Week 43 . Week 44 . Deployment tutorials . These tutorials are useful for assignment 2, and will also form the basis for our discussion around deployment. The source code are available in the deployment_tutorials folder in the course repository. . Streamlit-tutorial . . Flask-tutorial . .",
             "url": "https://skaliy.github.io/DAT158-ML-21/jupyter/2021/10/09/machine-learning-in-practice.html",
             "relUrl": "/jupyter/2021/10/09/machine-learning-in-practice.html",
             "date": " • Oct 9, 2021"
